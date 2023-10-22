@@ -1,0 +1,27 @@
+.todos{
+    width: 47.5%;
+    display: flex;
+    
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    
+}
+
+.todos_heading{
+    font-size: 30px;
+    color: ;
+}
+@media screen and (max-width:1200px) {
+    
+    .todos{
+        width: 93%;
+    }
+}
+@media screen and (max-width:700px) {
+    
+    .todos{
+        width: 95%;
+    }
+}

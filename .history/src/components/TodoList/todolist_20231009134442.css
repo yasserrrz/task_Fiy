@@ -1,0 +1,28 @@
+.todos{
+    /* width: 47.5%; */
+    
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgb(13, 64, 233);
+    
+}
+.remove{
+    background-color: rgb(255, 71, 71);
+}
+
+.todos_heading{
+    font-size: 30px;
+    color: #fff;
+}
+@media screen and (max-width:1200px) {
+    
+    .todos{
+        /* width: 93%; */
+    }
+}
+@media screen and (max-width:700px) {
+    
+    .todos{
+        /* width: 95%; */
+    }
+}

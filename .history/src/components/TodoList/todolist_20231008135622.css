@@ -1,0 +1,20 @@
+.todos{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+@media screen and (max-width:1200px) {
+    
+    .todos{
+        width: 9%;
+    }
+}
+@media screen and (max-width:700px) {
+    
+    .todos{
+        width: 95%;
+    }
+}

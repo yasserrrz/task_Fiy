@@ -1,0 +1,17 @@
+
+
+.todos_single{
+display: flex;
+width: 29.5%;
+border-radius: 5px;
+padding: 20px;
+margin-top:15px ;
+background-image: linear-gradient(to right, #gd
+, yellow);
+}
+.todos_single_text{
+
+}
+.icon{
+
+}

@@ -1,0 +1,14 @@
+
+.input{
+    display: flex;
+    width: 90%;
+    position: relative;
+    align-items: center;
+}
+.input_box{
+    width: 100%;
+    border-radius: 50px;
+    padding: 20px 30px;
+    font-size: 25px;
+    bor
+}
